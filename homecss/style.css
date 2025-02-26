@@ -1,0 +1,1082 @@
+/*her, main body typed text*/
+#her{
+  margin-top:10px;
+  margin-bottom: 20px;
+  width: 100%;
+  height: 75vh;
+background: url("../img/hero-bg2.jpg") top left;
+position:;
+  background-size: cover;
+  z-index: -1;
+
+
+display: ;
+}
+
+
+#her:before {
+  content: "";
+
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+
+
+
+
+#her .btn-get-started {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 28px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #106eea;
+}
+
+#her .btn-get-started:hover {
+  background: #247cf0;
+}
+
+
+.typed-header
+{
+  content:"";
+  padding-top: 35px;
+
+    margin-top:40px;
+  font-size:45px;
+  font-weight:bold;
+  color:white;
+  font-family: roboto;
+background-color:;
+display: flex;
+}
+
+.typed-text{
+  display: flex;
+  color:white;
+  line-height: 33px;
+  font-size: 25px;
+  width:97%;
+  position:;
+  font-family: roboto;
+
+}
+
+.d-flex{
+  position: relative;
+}
+.container{
+  position:;
+  width:90%;
+
+top:30px;
+
+}
+.type{
+  margin:0 auto;
+  margin-top:50px;
+}
+
+
+
+
+
+
+
+
+/*beginning of why swan investment */
+#invest .column{
+
+}
+
+.why_content{
+  text-align: center;
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  font-family: roboto;
+
+}
+.fas{
+  margin-left:9.5px;
+  margin-top:11px;
+}
+.why_icon{
+  margin-top: 40px;
+  border-radius: 1000px;
+  background-color:#071A52;
+  width:60px;
+  height:60px;
+margin-left:auto;
+margin-right: auto;
+}
+.why_adr{
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+
+.why_swan{font-weight: bold; font-size: 35px; padding-top: 40px;}
+.why_swan, .diversify_swan {
+  font-family: roboto;
+
+  text-align: center; color:#000000;
+}
+.diversify_swan{
+  margin-top:-26px;
+}
+
+
+.swan_investment{
+
+
+  height:600px;
+  background-color:#FCF8F8;
+
+  border-top-left-radius:;
+
+    border-top-right-radius:;
+  margin-top: -20px;
+  margin-bottom:40px;
+  z-index:;
+
+}
+
+.investment_container{
+
+}
+
+#invest{
+
+  margin-top: 40px;
+}
+
+/* Create three equal for swan investment columns that floats next to each other */
+.column {
+	font-family:times-new-roman;
+    float: left;
+    width: 18%;
+
+
+}
+.row{display:flex; justify-content:center;}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+#invest .column{
+  background-color: #ffffff;
+  position:;
+  height:350px;
+  border-radius:15px;
+
+  box-shadow: 5px 5px 18px #EAB6AB;
+
+}
+
+
+  .support {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 7px 29px;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #fff;
+    background: #106eea;
+    outline: none;
+    box-shadow: none;
+    border-style:none;
+  }
+
+
+
+
+
+#invest .first{
+
+}
+
+/*==end of why swan_investment=== */
+
+
+
+
+
+
+/*====testimonials=====*/
+.all_quotes
+{
+float:right;
+width:70%;
+margin-right:10%;
+padding-left:100px;
+margin-top: -50px;
+line-height: 35px;
+background-color: #FCF8F8;
+}
+
+.quotation_mark{
+  font-size: 45px;
+}
+
+.left{
+
+
+}
+
+.left2{
+    margin-bottom: 50px;
+}
+.testimonials_title{
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 40px;
+  font-family: roboto;
+  font-style:;
+  color:#F5CBC7;
+  letter-spacing: 3px;
+  font-weight: bold;
+}
+
+
+.all_testimonials
+{
+
+}
+
+
+.testimonials
+{
+
+
+}
+
+
+.column {
+  float: left;
+
+  height: 600px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 60%;
+
+}
+
+.right {
+  width: 40%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+
+.right{
+  background: url("../img/testimonials-425.jpg") top left;
+    background-size: cover;
+    color:#ffffff;
+    margin-top: -32px;
+    box-shadow: 4px 10px 19px #071A52;
+    background-color: #FFF8F8;
+}
+.testimg img{
+  width:120px; height:120px;
+  border-radius: 1000px;
+
+}
+
+.experience,.inspire{
+  text-align: center;
+  font-family:roboto;
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inspire{
+  margin-top: 26px;
+  font-weight:bold;
+  font-style:italic;
+  letter-spacing: 2px;
+  font-size:30px;
+}
+  .experience{
+    font-weight: 700;
+    font-size: 21px;
+  }
+    #email, #experience{margin-left: 30px;}
+
+    .email,.textarea{
+  display:flex;
+  justify-content: center;
+
+
+    }
+    .email input{
+      width:87%;height:30px;
+      border-radius:10px;
+        box-shadow: 0px 3px 5px #ffffff;
+        outline:none;
+        border-style: none;
+          background-color:#FFF8F8;
+
+    }
+    .textarea input{
+      width:87%;
+      height:250px;
+      border-radius:10px;
+
+      box-shadow: 0px 3px 5px #ffffff;
+      background-color:#FFF8F8;
+      outline:none;
+      border-style: none;
+
+
+    }
+
+    .button{
+      display: flex;
+    justify-content: center;
+
+  }
+  .submit
+  {
+    margin-top:15px;
+    width:140px;
+    height:36px;
+    background-color: #106eea;
+    outline:none;
+        border-style:none;
+        color:white;
+        font-family: roboto;
+        font-weight: bold;
+        border-radius:5px;
+        box-shadow: 1px 1px 3px #ffffff;
+        letter-spacing: 1px;
+  }
+
+
+  .quotes{
+    font-size: 60px;
+  }
+
+/*==end of testimonials===*/
+
+
+
+
+
+
+
+
+
+/*===beginning of validation===*/
+.validation
+{
+  background-color:#071A52;
+  height:550px;
+  width:100%;
+
+
+
+}
+
+.validate{
+  display: flex;
+  justify-content: center;
+
+}
+
+
+
+.validate img{
+  width:400px;
+  height: 400px;
+
+}
+
+.validate_text{
+  font-family: roboto;
+  color:white;
+  width:70%;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  margin-top:-70px;
+  line-height: 30px;
+  font-weight:medium;
+  letter-spacing: 0.5px;
+}
+
+
+
+
+.validate_link{
+  font-family: roboto;
+  color:white;
+  width:70%;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  margin-top:10px;
+  line-height: 30px;
+  font-weight:medium;
+  letter-spacing: 0.5px;
+
+}
+
+.finra{margin-left:20px;}
+
+.validate_link a{
+    color:white;
+}
+
+
+/*====end of validation ====*/
+
+
+
+
+
+
+
+
+/*===begining of newsletter ===*/
+
+.newsletter_all
+{
+  background-color:;
+  height:300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border:5.5px solid #FBDADA;
+    border-top-style: dashed;
+      border-left-style: dashed;
+      border-right-style: dashed;
+            border-bottom-style: dashed;
+
+}
+
+.newsletter_join{
+
+    display:flex;
+    justify-content: center;
+    padding-top: 70px;
+    font-family: roboto;
+    font-weight: bold;
+    font-size:30px;
+}
+
+.newsletter_input{
+
+
+
+}
+.newsletter_value{
+  display:flex;
+  justify-content: center;
+
+}
+
+
+.newsletter_value2{
+  width:60%;
+  height: 32px;
+  border-style:none;
+  box-shadow: 5px 5px 18px #EAB6AB;
+
+
+}
+.newsletter_button2{
+  height:34px;
+  width:80px;
+  border-top-right-radius:10px;
+  outline:0px;
+  border-style:none;
+  background-color: #106eea;
+  border-bottom-right-radius:10px;
+  color:white;
+    box-shadow: 5px 5px 18px #EAB6AB;
+    letter-spacing: 1px;
+    font-family: roboto;
+    font-weight: 500;
+}
+
+
+
+/*===end of newsletter ==*/
+
+
+
+
+
+
+/*====beginning of footer===*/
+
+
+
+.column_first {
+  margin-top:20px;
+
+height:300px;
+width:23vw;
+background-color:white ;
+float:left;
+
+
+
+
+
+}
+
+
+
+.slider{
+    width:93vw;
+margin-left: 3%;
+margin-right: auto;
+}
+
+
+
+
+.footer_header
+{
+  font-weight:bold;
+  font-size: 24px;
+
+}
+
+.footer div{
+  line-height: 30px;
+  font-family: roboto;
+}
+
+.footer_email2{
+  font-weight: bold;
+
+}
+
+.footer{
+  margin-bottom: 340px;
+}
+
+#last_footer2
+{
+  width:100%;
+  background-color:#F5CBC7;
+  height:60px;
+  bottom:0px;
+
+
+   }
+
+#last_footer2 div{
+  padding-top:25px;
+  font-family: roboto;
+  margin-left: 30px;
+}
+
+#last_footer2 span{
+  font-weight: bold;
+}
+
+
+
+
+
+
+/*====end of footer===*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:810px) {
+
+  /*====beginning of footer===*/
+
+.slider{
+	margin-left:0px;
+	width:100vw;
+}
+
+.footer div{
+  line-height: 30px;
+  font-family: roboto;
+  
+}
+
+.address{
+	font-size:15px;
+}
+
+.footer_email .email{
+	font-size:15px;
+}
+
+  .column_first {
+    margin-top:20px;
+
+  height:300px;
+  width:45vw;
+  background-color:white ;
+  float:left;
+
+background-color:;
+margin-left:5px;
+margin-right:10px;
+
+  }
+  
+ .useful_link,.privacy_policy{
+	margin-left:15%;
+  }
+
+
+  .footer_header
+  {
+    font-weight:bold;
+    font-size: 20px;
+
+  }
+
+
+
+
+  #last_footer2
+  {
+    width:100vw;
+    background-color:#F5CBC7;
+    height:60px;
+    bottom:0px;
+    margin-top:670px;
+
+
+     }
+
+
+     #last_footer2 div{
+       padding-top:14px;
+       font-family: roboto;
+       margin-left: 10px;
+       font-size:16px;
+     }
+
+
+/*==end of footer ==*/
+
+
+
+
+/*begining of validation */
+
+
+  .validation
+  {
+    background-color:#071A52;
+    height:650px;
+    width:100%;
+
+
+
+  }
+
+
+  .validate{
+    display: flex;
+    justify-content: center;
+    margin-top: 330px;
+	
+  }
+
+
+
+  .validate img{
+    width:300px;
+    height: 300px;
+
+  }
+
+  .validate_text{
+    font-family: roboto;
+    color:white;
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    margin-top:-70px;
+    line-height: 30px;
+    font-weight:medium;
+    letter-spacing: 0.5px;
+    font-size:13px;
+  }
+
+
+
+/*end of validation */
+
+
+
+    .column {
+        width: 100%;
+
+
+    }
+.row{
+  display: block;
+  width:100%;
+}
+
+
+.investment_container{
+width:90%;
+margin-left: 5%;
+margin-right: 5%;
+justify-content: center;
+
+}
+
+
+
+
+
+
+
+/*--==investment plans */
+
+  .investment_plans
+  {
+  padding-bottom: 1400px;
+  }
+
+
+/*--end of investment plans --*/
+
+
+#her .btn-get-started {
+
+  margin-top:-30px;
+  display: flex;
+  width:85px;
+  font-size:12px;
+}
+
+
+
+
+
+
+  .typed-header {
+    font-size:22px;
+    font-weight:bold;
+    color:#ffffff;
+    content:"";
+    padding-top: 20px;
+
+      margin-top:140px;
+
+  }
+
+
+  .typed-text{
+    color:#ffffff;
+    line-height: 20px;
+    font-size: 14px;
+    width:97%;
+    position:;
+    display:flex;
+
+  }
+.type{
+    margin-top:-150px;
+}
+
+
+
+
+
+  #her{
+    margin-top:20px;
+    width: 100vw;
+  height: 73vh !important;
+  background: url("../img/hero-bg2.jpg") top left;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 60px;
+  }
+
+
+
+/*swan investment */
+
+.why_content{}
+
+  #invest .column{
+    margin-bottom:20px;
+  }
+
+.why_swan, .diversify_swan {
+
+  text-align: center; color:#000000;
+}
+
+.diversify_swan{
+line-height: 20px;
+width:90%;
+margin-left:auto;
+margin-right: auto;
+}
+
+  .why_swan{
+    font-weight: bold;
+     font-size: 30px;
+    letter-spacing: 1px;
+    font-family:roboto;
+    width:80%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 37px;
+  }
+
+
+  .swan_investment
+  {
+    display:;
+    position:;
+height:1800px;
+    background-color:;
+    width:100vw;
+    margin-top: -60px;
+    z-index: 1;
+
+  }
+
+
+  /*====testimonials=====*/
+
+
+
+  .all_quotes
+  {
+  float:right;
+  width:70%;
+  margin-right:0%;
+  margin-top: -150px;
+  margin-left:100px;
+  }
+
+.column.right{
+  margin-top:100px;
+}
+
+
+.column#allcontent{
+  margin-top:150px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width:600px)
+
+
+
+{
+
+  #her{
+    margin-top:20px;
+    width: 100vw;
+  height: 90vh !important;
+  background: url("../img/hero-bg2.jpg") top left;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 60px;
+  }
+
+
+
+
+  .testimonials_title{
+    font-size:26px;
+    color:;
+  }
+
+
+}
+
+
+@media screen and (max-width:420px)
+{
+	
+	.why_swan{
+		
+		font-size:20px;
+	}
+
+
+  .validate{
+    display: flex;
+    justify-content: center;
+    margin-top: 360px;
+	
+  }
+
+
+
+    #her{
+      margin-top:20px;
+      width: 100vw;
+    height: 97vh !important;
+    background: url("../img/hero-bg2.jpg") top left;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 60px;
+    }
+
+
+
+
+  .all_quotes
+  {
+  float:right;
+  width:50%;
+  margin-right:3%;
+  margin-top: -150px;
+  font-size:12px;
+  }
+
+
+  .left{
+    margin-left: 0px;
+  }
+
+
+
+
+
+  .typed-header {
+    font-size:20px;
+    font-weight:bold;
+    color:#ffffff;
+    content:"";
+    padding-top: 35px;
+
+      margin-top:140px;
+
+  }
+
+
+  .typed-text{
+    color:#ffffff;
+    line-height: 20px;
+    font-size: 13px;
+    width:97%;
+    position:;
+    display:flex;
+
+  }
+  .type{
+    margin-top:-150px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:380px)
+{
+
+  #her{
+    margin-top:20px;
+    width: 100vw;
+  height: 99vh !important;
+  background: url("../img/hero-bg2.jpg") top left;
+  background-size: cover;
+  position: ;
+  margin-bottom: 60px;
+  }
+
+
+
+
+
+
+}
+
+
+@media screen and (max-width:365px)
+{
+
+  #her{
+    margin-top:20px;
+    width: 100vw;
+  height: 105vh !important;
+  background: url("../img/hero-bg2.jpg") top left;
+  background-size: cover;
+  position: ;
+  margin-bottom: 60px;
+  }
+
+
+
+
+
+
+}
